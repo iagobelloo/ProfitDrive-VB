@@ -26,7 +26,7 @@ Desenvolvido como projeto prático no curso de Análise e Desenvolvimento de Sis
 - Tratamento de concorrência e gerenciamento de conexões ativas no EF Core, substituindo rotinas legadas de varredura por Reflection por consultas fortemente tipadas e fechamento imediato de fluxos de dados em memória (.ToList()).
 - Isolamento de regras de negócio dentro de camadas de dados e entidades relacionais.
 
-## ⚙️ Instalação e Execução (Instruções para Avaliação)
+## Instalação e Execução (Instruções para Avaliação)
 
 1. Certifique-se de possuir o **MySQL Server** ativo localmente.
 2. Abra a solução através do arquivo `ProfitDriveVB.slnx` (ou `.sln`) no Visual Studio.
