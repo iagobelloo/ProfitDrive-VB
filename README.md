@@ -1,6 +1,6 @@
 # ProfitDrive - Sistema de Gestão e Telemetria para Motoristas de Aplicativo
 
-O ProfitDrive é uma aplicação desktop desenvolvida em VB.NET voltada para o gerenciamento financeiro, controle de custos operacionais e análise de telemetria veicular para motoristas de aplicativo das categorias Comfort e Black.
+O ProfitDrive é uma aplicação desktop desenvolvida em VB.NET voltada para o gerenciamento financeiro, controle de custos operacionais e análise de telemetria veicular para motoristas de aplicativo.
 
 O projeto foi estruturado no paradigma de Programação Orientada a Objetos (POO), utilizando o Entity Framework Core para a persistência dos dados em um servidor relacional.
 
